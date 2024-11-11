@@ -1,7 +1,8 @@
 # stable-diffusion-v1-5-finetuned-logos-white-background
+
 Dataset: https://www.kaggle.com/datasets/juliancamilovelandia/logos-with-white-background?select=dataset_annotations_descriptions.json
 
-
+Model: https://huggingface.co/JulianVelandia/stable-diffusion-v1-5-finetuned_logos_white_background
 
 - "Logotipo minimalista de una empresa de tecnología, diseño en tonos gris y azul oscuro, sobre fondo claro"
 
