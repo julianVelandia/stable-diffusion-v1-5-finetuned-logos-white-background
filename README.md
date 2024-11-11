@@ -29,9 +29,13 @@ Dataset: https://www.kaggle.com/datasets/juliancamilovelandia/logos-with-white-b
 
 ### Sin Finetuning
 
+![Logotipo_elegante_para_firma_l](https://github.com/user-attachments/assets/bfffecf6-4039-4cf3-9567-a6721b8d8e42)
 
 
 ### Con Finetuning
+
+![Logotipo_elegante_para_firma_l (1)](https://github.com/user-attachments/assets/ef6afb1c-2d55-41db-a4ec-243ac498a20a)
+
 
 - "Logotipo moderno con iconos geométricos en tonos metálicos, con formas abstractas sobre fondo claro"
 
